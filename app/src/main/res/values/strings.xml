@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Delhi Tour Guide App</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="places">Places</string>
+    <string name="hotels">Hotels</string>
+    <string name="events">Events</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+
+    <!-- Event Details -->
+    <string name="event_item1"> Know Your Personality </string>
+    <string name="event_address1">Scientology, 10, Mathura Road, New delhi</string>
+
+    <string name="event_item2"> Scaling Tech with Microservices &amp; Devops </string>
+    <string name="event_address2">TechGuru, Rohini, Delhi</string>
+
+    <string name="event_item3">Open Mic - Poetry</string>
+    <string name="event_address3">KC Studio, Delhi</string>
+
+    <string name="event_item4">Developing Framework of Labour Legislation in India</string>
+    <string name="event_address4">F-11, First Floor, Kalkaji , South Delhi, Delhi</string>
+
+    <string name="event_item5">Dance Show</string>
+    <string name="event_address5">Patel Nagar, Delhi</string>
+
+    <string name="event_item6">Bike Show</string>
+    <string name="event_address6">Connaught Place, Delhi</string>
+
+    <!-- Hotel Details -->
+    <string name="hotel_item1">The Leela Palace New Delhi</string>
+    <string name="hotel_address1">South Delhi, Delhi</string>
+
+    <string name="hotel_item2">Taj Palace</string>
+    <string name="hotel_address2">Chanakyapuri, Delhi</string>
+
+    <string name="hotel_item3">Hotel Arch</string>
+    <string name="hotel_address3">Mahipalpur, New Delhi</string>
+
+    <string name="hotel_item4">Lemon Tree Premier, Delhi Airport</string>
+    <string name="hotel_address4">Aerocity, New Delhi</string>
+
+    <string name="hotel_item5">Hotel Shanti Plaza</string>
+    <string name="hotel_address5">Paharganj, New Delhi</string>
+
+    <string name="hotel_item6">Red Carmine</string>
+    <string name="hotel_address6">Near Badarpur Border, Indrapuri, Delhi</string>
+
+    <string name="hotel_item7">Gour White House</string>
+    <string name="hotel_address7">Near Tara Apartments, Alaknanda Market, Delhi</string>
+
+    <!-- Restaurants Details -->
+    <string name="rest_item1">DUM PUKHT</string>
+    <string name="rest_address1">TC Maurya, Diplomatic Enclave, Sardar Patel Marg, Delhi</string>
+
+    <string name="rest_item2">THE SPICE ROUTE</string>
+    <string name="rest_address2">The Imperial Hotel, Janpath, Delhi</string>
+
+    <string name="rest_item3">MOTI MAHAL DELUX</string>
+    <string name="rest_address3">Greater Kailash 1, Delhi</string>
+
+    <string name="rest_item4">1911 RESTAURANT</string>
+    <string name="rest_address4">The Imperial Hotel, Janpath, Delhi</string>
+
+    <string name="rest_item5">TRAVERTINO</string>
+    <string name="rest_address5">Dr Zakir Hussain Marg, Delhi</string>
+
+    <string name="rest_item6">THE YUM YUM TREE</string>
+    <string name="rest_address6">First Floor, Community Centre, New Friends Colony, Delhi</string>
+
+    <string name="rest_item7">MAGIQUE</string>
+    <string name="rest_address7">Gate No. 3, Garden of 5 Senses, Westend Marg, Said ul Ajaib, Delhi</string>
+
+    <string name="rest_item8">SAKURA</string>
+    <string name="rest_address8">The Metropolitan Hotel, Bangla Sahib Road, Delhi</string>
+
+    <!-- Places Details-->
+    <string name="place_item1">India Gate</string>
+    <string name="place_address1">Rajpath, India Gate, New Delhi</string>
+
+    <string name="place_item2">Bangla Sahib Gurudwara</string>
+    <string name="place_address2">Ashoka Road, Hanuman Road Area, Connaught Place, New Delhi</string>
+
+    <string name="place_item3">Central Park</string>
+    <string name="place_address3">Connaught Place, New Delhi</string>
+
+    <string name="place_item4">Jhandewalan Mandir</string>
+    <string name="place_address4">DB Gupta Road, Block E, Jhandewalan Extension, Paharganj, New Delhi</string>
+
+    <string name="place_item5">Majnu-ka-tilla</string>
+    <string name="place_address5">New Aruna Nagar Colony, Chungtown, New Dehi</string>
+
+    <string name="place_item6">Humayun\'s Tomb</string>
+    <string name="place_address6">Mathura Road Opposite, Hazrat Nizamuddin Aulia Dargah, Nizamuddin, New Delhi</string>
+
+    <string name="place_item7">Hauz Khas Village</string>
+    <string name="place_address7">Hauz Khas, New Delhi</string>
+
+    <string name="place_item8">Qutub Minar</string>
+    <string name="place_address8">Seth Sarai, Mehrauli, New Delhi</string>
+
+    <string name="place_item9">Delhi Zoo</string>
+    <string name="place_address9">Mathura Rd, Pragati Maidan, New Delhi</string>
+
+    <string name="place_item10">Red Fort</string>
+    <string name="place_address10">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi</string>
+
+    <string name="place_item11">Akshardham Temple Delhi</string>
+    <string name="place_address11">Noida Mor, Pandav Nagar, New Delhi</string>
+
+    <string name="place_item12">Lotus Temple</string>
+    <string name="place_address12">Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi</string>
+
+</resources>
